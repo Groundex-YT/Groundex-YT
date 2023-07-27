@@ -1,4 +1,4 @@
-# [![waylon walker header](https://i.gifer.com/YQpk.gif)](https://waylonwalker.com)
+# [![waylon walker header](https://c4.wallpaperflare.com/wallpaper/809/19/584/anime-dororo-dororo-anime-hyakkimaru-dororo-hd-wallpaper-preview.jpg)](https://waylonwalker.com)
 
 # 🏄‍♂️ Groundex-YT - Dex
 
