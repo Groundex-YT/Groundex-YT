@@ -1,5 +1,3 @@
-# [![waylon walker header](https://c4.wallpaperflare.com/wallpaper/770/826/542/anime-dororo-dororo-anime-hyakkimaru-dororo-hd-wallpaper-preview.jpg)](https://yorukou.fun)
-
 # 🏄‍♂️ Groundex-YT - Dex
 
 **`God -> Family -> rest comes after`**
