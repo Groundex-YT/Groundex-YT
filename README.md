@@ -1,10 +1,14 @@
-<img src="https://github.com/M0ssi-P/M0ssi-P/blob/main/photo-that-has-myname-header.png?raw=true" />
-
 # Hi, I’m Pacifique 👋🏾 👨🏾‍💻
+
+I'm a self-taught software engineer from Australia with a passion for building scalable apps, community and creating technology that elavate people. I've been actively working in the dev space and expanding my knowledge for over 6 years. Some technologies I enjoy working with include ReactJS, NextJS, Jamstack(Javascript, API + Markup) and Jetpack Compose (both mobile, desktop and multiplatform)
+
+Some of my open-source projects are pinned below — feel free to dive in and reach out if you want to collaborate!
+
+Thanks for stopping by 🌱
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M0ssi-P)](https://github.com/M0ssi-P/github-readme-stats)
 
-## Here is tech stacks I know and use 🛠
+## Languages & Frameworks 🛠
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0ssi-P&langs_count=10" align="right" width="300px">
 
@@ -24,4 +28,4 @@
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
-![Profile counter](https://moe-counter.glitch.me/get/@hoangvu12)
+![Profile counter](https://moe-counter.glitch.me/get/@M0ssi-P)
