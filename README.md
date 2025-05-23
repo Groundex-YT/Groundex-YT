@@ -6,8 +6,6 @@ Some of my open-source projects are pinned below — feel free to dive in and re
 
 Thanks for stopping by 🌱
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M0ssi-P)](https://github.com/M0ssi-P/github-readme-stats)
-
 ## Languages & Frameworks 🛠
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0ssi-P&langs_count=10" align="right" width="300px">
