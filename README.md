@@ -17,6 +17,7 @@ Thanks for stopping by 🌱
 
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
 ![React](https://img.shields.io/badge/-React%20Native-2f1a47?style=flat&logo=react)&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/-Jetpackcompose-2f1a47?style=flat&logo=jetpackcompose)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
 ![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
