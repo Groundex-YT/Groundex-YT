@@ -12,8 +12,8 @@ Thanks for stopping by 🌱
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin)&nbsp;
-![Python](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-2f1a47?style=flat&logo=kotlin)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2f1a47?style=flat&logo=python)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
 ![React](https://img.shields.io/badge/-React%20Native-2f1a47?style=flat&logo=react)&nbsp;
